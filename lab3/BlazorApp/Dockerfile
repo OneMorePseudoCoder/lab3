@@ -6,7 +6,7 @@ RUN dotnet publish ./BlazorApp.csproj -c Relese -o output
 
 FROM nginx:alpine
 WORKDIR /usr/share/nginx/html
-COPY --from=build-env /app/output/wwwroot
+COPY --from=build-env /app/output/wwwroot .
 
 COPY nginx.conf /etc/nginx/nginx.conf
 

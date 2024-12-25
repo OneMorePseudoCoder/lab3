@@ -9,7 +9,7 @@ WORKDIR /app
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-COPY ["lab3.csproj", "lab3/"]
+COPY ["lab3/lab3.csproj", "lab3/"]
 RUN dotnet restore "lab3/lab3.csproj"
 
 COPY . .

@@ -17,11 +17,27 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = lab3
 build_property.RootNamespace = lab3
-build_property.ProjectDir = C:\Users\Kirill\Documents\GitHub\lab3\
+build_property.ProjectDir = C:\Users\Kirill\Documents\GitHub\lab3\lab3\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Kirill\Documents\GitHub\lab3
+build_property.MSBuildProjectDirectory = C:\Users\Kirill\Documents\GitHub\lab3\lab3
 build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Kirill/Documents/GitHub/lab3/lab3/BlazorApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwXEFwcC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kirill/Documents/GitHub/lab3/lab3/BlazorApp/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kirill/Documents/GitHub/lab3/lab3/BlazorApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwXFBhZ2VzXEluZGV4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kirill/Documents/GitHub/lab3/lab3/BlazorApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Qmxhem9yQXBwXF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 

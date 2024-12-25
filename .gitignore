@@ -2,3 +2,6 @@
 /bin
 /.vs
 /obj
+/lab3/.vs
+/lab3/BlazorApp/bin/Debug
+/lab3/BlazorApp/obj

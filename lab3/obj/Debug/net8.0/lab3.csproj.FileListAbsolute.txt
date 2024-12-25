@@ -335,3 +335,14 @@ C:\Users\Kirill\Documents\GitHub\lab3\obj\Debug\net8.0\refint\lab3.dll
 C:\Users\Kirill\Documents\GitHub\lab3\obj\Debug\net8.0\lab3.pdb
 C:\Users\Kirill\Documents\GitHub\lab3\obj\Debug\net8.0\lab3.genruntimeconfig.cache
 C:\Users\Kirill\Documents\GitHub\lab3\obj\Debug\net8.0\ref\lab3.dll
+C:\Users\Kirill\Documents\GitHub\lab3\lab3\obj\Debug\net8.0\lab3.csproj.AssemblyReference.cache
+C:\Users\Kirill\Documents\GitHub\lab3\lab3\obj\Debug\net8.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\Documents\GitHub\lab3\lab3\obj\Debug\net8.0\lab3.AssemblyInfoInputs.cache
+C:\Users\Kirill\Documents\GitHub\lab3\lab3\obj\Debug\net8.0\lab3.AssemblyInfo.cs
+C:\Users\Kirill\Documents\GitHub\lab3\lab3\obj\Debug\net8.0\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Documents\GitHub\lab3\lab3\obj\Debug\net8.0\lab3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kirill\Documents\GitHub\lab3\lab3\obj\Debug\net8.0\lab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kirill\Documents\GitHub\lab3\lab3\obj\Debug\net8.0\lab3.sourcelink.json
+C:\Users\Kirill\Documents\GitHub\lab3\lab3\obj\Debug\net8.0\lab3.dll
+C:\Users\Kirill\Documents\GitHub\lab3\lab3\obj\Debug\net8.0\refint\lab3.dll
+C:\Users\Kirill\Documents\GitHub\lab3\lab3\obj\Debug\net8.0\lab3.pdb

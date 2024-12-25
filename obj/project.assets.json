@@ -5161,11 +5161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kirill\\source\\repos\\lab3\\lab3.csproj",
+      "projectUniqueName": "C:\\Users\\Kirill\\Documents\\GitHub\\lab3\\lab3.csproj",
       "projectName": "lab3",
-      "projectPath": "C:\\Users\\Kirill\\source\\repos\\lab3\\lab3.csproj",
+      "projectPath": "C:\\Users\\Kirill\\Documents\\GitHub\\lab3\\lab3.csproj",
       "packagesPath": "C:\\Users\\Kirill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kirill\\source\\repos\\lab3\\obj\\",
+      "outputPath": "C:\\Users\\Kirill\\Documents\\GitHub\\lab3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kirill\\AppData\\Roaming\\NuGet\\NuGet.Config",
